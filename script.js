@@ -16,13 +16,13 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Desenvolvimento", "Design", "Gestão de Tráfego", "Websites"],
+        strings: ["Desenvolvimento", "Marketing Digital", "Design", "Gestão de Tráfego", "Websites"],
         typeSpeed: 60,
         backSpeed: 30,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Desenvolvedores", "Designers", "Editores", "Freelancers", "Gestores de Tráfego", "YouTubers"],
+        strings: ["Desenvolvedores", "Marketing Digital", "Designers", "Freelancers", "Gestores de Tráfego", "Digitais Influencers"],
         typeSpeed: 60,
         backSpeed: 30,
         loop: true
